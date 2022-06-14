@@ -2,12 +2,24 @@
 
 > URL shortener to reduce long link
 
-## Quick Start
+## Available scripts
 
+### Installs dependencies
 ```
-# Install dependencies
-npm i
+npm install
+```
 
-# Run
+### Runs the project
+```
 npm start
+```
+
+### Runs the project in watch mode
+```
+npm run dev
+```
+
+### Compiles and minifies for production
+```
+npm build
 ```
